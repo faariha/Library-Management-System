@@ -1,4 +1,4 @@
-This is a Library Management System focused on two portals, admin and users. The security features of the project are enhanced to ensure reliability.
+This is a Library Management System focused on two portals, admin and users. The security features of the project are enhanced to ensure reliability. HTML, PHP, CSS, JavaScript and MySQL were used.
 
 Workflow -
  
